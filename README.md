@@ -1,6 +1,6 @@
 # 010EditorKeyGen
 
-Very simple keygen implementation for 010Editor that I made in my free time for fun.
+Very simple keygen implementation (written in python) for 010Editor that I made in my free time for fun.
 Only for Educational purposes.
 
 # Usage
